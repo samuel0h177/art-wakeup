@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Masterpiece Motion",
+  "description": "Bring static art to life using Google's Veo video generation model. Upload a painting and watch it wake up.",
+  "requestFramePermissions": []
+}
